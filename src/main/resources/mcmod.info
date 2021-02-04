@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Fullscreen",
+  "name": "Fullscreen",
+  "description": "Say fullscreen in chat to toggle fullscreen.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheZeldaBoi"],
+  "credits": "TheZeldaBoi made this :O",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
